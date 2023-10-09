@@ -539,11 +539,11 @@ figure figcaption {
   padding: 3em 0 0 0em;
   float: left;
 }
-#fh5co-footer. {
+#fh5co-footer.padding-left {
   padding-left: 2em;
 }
 @media screen and (max-width: 480px) {
-  #fh5co-footer. {
+  #fh5co-footer.padding-left {
     padding-left: 0em;
   }
 }
