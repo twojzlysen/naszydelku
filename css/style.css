@@ -537,7 +537,7 @@ figure figcaption {
 
 #fh5co-footer {
   padding: 3em 0 0 0em;
-  float: left;
+  clear: both;
 }
 #fh5co-footer. {
   padding-left: 2em;
