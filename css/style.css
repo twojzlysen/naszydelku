@@ -15,6 +15,11 @@ body {
   font-weight: 300;
   line-height: 1.8;
   color: #676767;
+  background-image: url(../images/background.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+
 }
 body.fh5co-overflow {
   overflow-x: auto;
@@ -582,6 +587,19 @@ figure figcaption {
   height: 100%;
   z-index: 9999;
   background: url(../images/hourglass.svg) center no-repeat #ffffff;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+}
+.background-image {
+	background-image: url('./Zima1.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 200px;
+	height: 100vh;
+
 }
 
 /*# sourceMappingURL=style.css.map */
